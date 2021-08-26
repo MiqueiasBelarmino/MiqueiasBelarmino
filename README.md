@@ -3,7 +3,7 @@
 
 <div>
  <p>
-Sou desenvovedor com conhecimento e experiência em Orientação a Objetos, Back-End e Mobile bem como o entendimento na elaboração de requisitos de software. Tenho facilidade em emprender e aberto a novas tecnologias e ferramentas.
+Sou desenvovedor com conhecimento e experiência em desenvolvimento web, orientação a objetos, back-end bem como o entendimento na elaboração de requisitos de software. Tenho facilidade em emprender e aberto a novas tecnologias e ferramentas.
 </p>
 </div>
 
