@@ -1,11 +1,8 @@
-### Olá, sou o Miquéias
 
+### Hi there👋
+- I’m currently working on [Taramps Group](https://www.taramps.com.br).
+- I’m currently learning Spring Boot
 
-<div>
- <p>
-Sou desenvovedor com conhecimento e experiência em desenvolvimento web, orientação a objetos, back-end bem como o entendimento na elaboração de requisitos de software. Tenho facilidade em emprender e aberto a novas tecnologias e ferramentas.
-</p>
-</div>
 
 ### Skills
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
