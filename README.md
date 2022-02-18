@@ -1,7 +1,6 @@
 
 ### Hi there👋
 - I’m currently working on [Taramps Group](https://www.taramps.com.br).
-- I’m currently learning Spring Boot
 
 
 ### Skills
