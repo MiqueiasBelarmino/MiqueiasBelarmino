@@ -1,6 +1,6 @@
 
 ### Hi there👋
-- I’m currently working on [Taramps Group](https://www.taramps.com.br).
+- I’m currently working on [Amdocs](https://www.amdocs.com).
 - I’m currently learning Spring and React.
 
 
