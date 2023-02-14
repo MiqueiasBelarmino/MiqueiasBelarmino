@@ -1,8 +1,5 @@
 
 ### Hi there👋
-- I’m currently working on [Amdocs](https://www.amdocs.com).
-- I’m currently learning Spring and React.
-
 
 ### Skills
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
