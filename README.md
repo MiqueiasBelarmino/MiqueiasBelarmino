@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Miquéias</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [routine tracker app](https://github.com/MiqueiasBelarmino/routine-tracker-nodejs)
+- 🔭 I’m currently working on routine tracker app [back](https://github.com/MiqueiasBelarmino/routine-tracker-nodejs) [front](https://github.com/MiqueiasBelarmino/routine-tracker-vuejs)
 
-- 🌱 I’m currently learning **nodejs, spring, and react**
+- 🌱 I’m currently learning **nodejs and reactjs**
 
 - 📫 How to reach me **miqueiascostabac@gmail.com**
 
